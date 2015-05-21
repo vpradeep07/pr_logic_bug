@@ -10,3 +10,6 @@ static const int VERSION_NUM = 1;
 
 // **************
 // Feature B
+void MyFeatureB() {
+
+}
