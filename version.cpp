@@ -2,3 +2,11 @@
 // should be incremented on every new feature change.
 
 static const int VERSION_NUM = 1;
+
+// **************
+// Feature A
+
+
+
+// **************
+// Feature B
