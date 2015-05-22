@@ -6,7 +6,9 @@ static const int VERSION_NUM = 2;
 // **************
 // Feature A
 
+void MyCoolFeatureA() {
 
+}
 
 // **************
 // Feature B
