@@ -12,3 +12,6 @@ void MyCoolFeatureA() {
 
 // **************
 // Feature B
+void MyFeatureB() {
+
+}
